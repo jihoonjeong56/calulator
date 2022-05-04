@@ -11,6 +11,7 @@ setuptools.setup(
   download_url = "https://github.com/jihoonjeong56/calulator00700/archive/refs/tags/v0.0.1.zip",
   install_requires=['pytest'],
   long_description = 'oss-dev calculator python module',
+  long_description_content_type = 'text/markdown',
   classifiers=[
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
